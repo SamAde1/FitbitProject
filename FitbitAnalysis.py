@@ -24,3 +24,6 @@ fit_statsSTEPS = auth2_client.intraday_time_series('activities/steps',
                                                 base_date=yesterday2)
 
 print(fit_statsSTEPS)
+
+#https://towardsdatascience.com/collect-your-own-fitbit-data-with-python-ff145fa10873
+#https://www.freecodecamp.org/news/how-i-analyzed-the-data-from-my-fitbit-to-improve-my-overall-health-a2e36426d8f9/
